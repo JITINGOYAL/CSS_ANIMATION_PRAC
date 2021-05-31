@@ -1,0 +1,11 @@
+[data-component="slideshow"] .slide {
+    display: none;
+  }
+
+  [data-component="slideshow"] .slide.active {
+    display: block;
+  }
+
+img{
+    height: 100vh;
+}
